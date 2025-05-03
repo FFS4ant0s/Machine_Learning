@@ -1,0 +1,39 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pdb
+*.log
+*.pot
+*.pyc
+
+# Virtual Environment
+venv/
+.env/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# Streamlit
+*.streamlit/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Python Wheel Files
+*.whl
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração de IDEs
+*.swp
